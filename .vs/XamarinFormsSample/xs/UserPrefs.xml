@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{03323FE5-BD7F-4E0C-933B-239A9BFA2638}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinFormsSample/XamarinFormsSample/MainPage.xaml">
+    <Files>
+      <File FileName="XamarinFormsSample.macOS/XamarinFormsSample.macOS/AppDelegate.cs" Line="15" Column="48" />
+      <File FileName="XamarinFormsSample/XamarinFormsSample/App.xaml" Line="1" Column="1" />
+      <File FileName="XamarinFormsSample/XamarinFormsSample/MainPage.xaml" Line="22" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XamarinFormsSample" expanded="True">
+            <Node name="XamarinFormsSample" expanded="True">
+              <Node name="MainPage.xaml" selected="True" />
+            </Node>
+            <Node name="XamarinFormsSample.macOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.XamarinFormsSample.macOS PreferredExecutionTarget="Test1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
